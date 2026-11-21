@@ -1,0 +1,1311 @@
+{
+  "title": "Uttarakhand Police Constable Official Paper — 18 December 2022",
+  "durationMinutes": 120,
+  "positiveMarks": 1,
+  "negativeMarks": 0,
+  "questions": [
+    {
+      "id": "UK001",
+      "subject": "सामान्य हिन्दी",
+      "q": "‘रेलगाड़ी’ किन भिन्न-भिन्न भाषाओं के शब्दों के जोड़ से बना है ?",
+      "opts": [
+        "हिन्दी + अरबी",
+        "अंग्रेजी + हिन्दी",
+        "फारसी + संस्कृत",
+        "हिन्दी + उर्दू"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK002",
+      "subject": "सामान्य हिन्दी",
+      "q": "निम्नलिखित में ‘अग्नि’ का पर्यायवाची नहीं है :",
+      "opts": [
+        "आग",
+        "अनल",
+        "अनिल",
+        "वैश्वानर"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK003",
+      "subject": "सामान्य हिन्दी",
+      "q": "‘सदानन्द’ में सन्धि है :",
+      "opts": [
+        "व्यंजन संधि",
+        "स्वर संधि",
+        "गुण संधि",
+        "वर्ण संधि"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK004",
+      "subject": "सामान्य हिन्दी",
+      "q": "‘आपकी यात्रा मंगलमय हो।’ — किस प्रकार का वाक्य है ?",
+      "opts": [
+        "संदेहवाचक",
+        "संकेतवाचक",
+        "विस्मयवाचक",
+        "इच्छावाचक"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK005",
+      "subject": "सामान्य हिन्दी",
+      "q": "‘आकाश के तारे तोड़ लाना’ मुहावरे का अर्थ है :",
+      "opts": [
+        "बहुत बड़ा या असंभव कार्य करना।",
+        "भरसक प्रयत्न करना।",
+        "अपना काम निकाल लेना।",
+        "चुनौती स्वीकार करना।"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK006",
+      "subject": "सामान्य हिन्दी",
+      "q": "‘टिप्पण’ की भाषा होनी चाहिए :",
+      "opts": [
+        "भावप्रधान",
+        "कल्पना प्रधान",
+        "वस्तु प्रधान",
+        "काव्यात्मक"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK007",
+      "subject": "सामान्य हिन्दी",
+      "q": "‘शब्दावली’ का अर्थ है :",
+      "opts": [
+        "भाषा का केन्द्रीय अंग",
+        "अन्य भाषाएँ मिलकर",
+        "शब्दों के विभिन्न स्रोत",
+        "शब्दों का समूह"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK008",
+      "subject": "सामान्य हिन्दी",
+      "q": "कम्प्यूटर के सन्दर्भ में ‘चाणक्य’ नाम है :",
+      "opts": [
+        "कम्प्यूटर के एक प्रकार का।",
+        "कम्प्यूटर प्रोग्रामिंग का।",
+        "कम्प्यूटर के एक फॉण्ट का।",
+        "कम्प्यूटर के ऑपरेटिंग सिस्टम का।"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK009",
+      "subject": "सामान्य हिन्दी",
+      "q": "कबीर निम्नलिखित शाखा के प्रतिनिधि कवि हैं :",
+      "opts": [
+        "प्रेमाश्रयी",
+        "ज्ञानाश्रयी",
+        "रामाश्रयी",
+        "कृष्णाश्रयी"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK010",
+      "subject": "सामान्य हिन्दी",
+      "q": "‘श्रीकृष्ण गीतावली’ के रचयिता हैं :",
+      "opts": [
+        "सूरदास",
+        "रैदास",
+        "तुलसीदास",
+        "रसखान"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK011",
+      "subject": "सामान्य हिन्दी",
+      "q": "‘कर्मभूमि’ के लेखक का नाम है :",
+      "opts": [
+        "सत्यजित राय",
+        "शेखर जोशी",
+        "कुश चन्दर",
+        "प्रेमचन्द"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK012",
+      "subject": "सामान्य हिन्दी",
+      "q": "‘हिम किरीटिनी’ के रचयिता का नाम है :",
+      "opts": [
+        "माखनलाल चतुर्वेदी",
+        "रामधारी सिंह ‘दिनकर’",
+        "दुष्यन्त कुमार",
+        "भवानीप्रसाद मिश्र"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK013",
+      "subject": "सामान्य हिन्दी",
+      "q": "महादेवी वर्मा के रेखाचित्र ‘भक्तिन’ के प्रमुख पात्र ‘भक्तिन’ का वास्तविक नाम है :",
+      "opts": [
+        "निर्मला",
+        "मालती",
+        "लछमिन",
+        "धनिया"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK014",
+      "subject": "सामान्य हिन्दी",
+      "q": "भारतीय आर्यभाषा के विकासक्रम में ‘पालि’ व ‘प्राकृत’ के उपरान्त तीसरी भाषा है :",
+      "opts": [
+        "संस्कृत",
+        "हिन्दी",
+        "अपभ्रंश",
+        "मराठी"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK015",
+      "subject": "सामान्य हिन्दी",
+      "q": "‘कुमाऊँनी’ बोली का प्रमुख क्षेत्र है :",
+      "opts": [
+        "पौड़ी और गढ़वाल",
+        "नैनीताल और अल्मोड़ा",
+        "नेपाल तथा काठमाण्डू",
+        "मसूरी और शिमला"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK016",
+      "subject": "सामान्य हिन्दी",
+      "q": "‘देवनागरी’ लिपि का जन्म हुआ है :",
+      "opts": [
+        "खरोष्ठी से",
+        "रोमन से",
+        "ब्राह्मी से",
+        "फारसी से"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK017",
+      "subject": "सामान्य हिन्दी",
+      "q": "जब लिखने से कोई अंश छूट जाता है, तो उसे प्रदर्शित करने के लिए कौन सा चिह्न प्रयुक्त होता है ?",
+      "opts": [
+        "प्रश्नवाचक",
+        "अल्पविराम",
+        "निर्देशक",
+        "हंस पद"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK018",
+      "subject": "सामान्य हिन्दी",
+      "q": "भाषा की सबसे छोटी ध्वनि इकाई, जिसके खण्ड न किए जा सकें, कहलाती है :",
+      "opts": [
+        "शब्द",
+        "पद",
+        "वर्ण",
+        "वाक्य"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK019",
+      "subject": "सामान्य हिन्दी",
+      "q": "‘अन्तिम’ शब्द में कौन सा प्रत्यय है ?",
+      "opts": [
+        "इक",
+        "इम",
+        "इमा",
+        "ईन"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK020",
+      "subject": "सामान्य हिन्दी",
+      "q": "निम्नलिखित में स्त्रीलिंग शब्द है :",
+      "opts": [
+        "नीम",
+        "अरावली",
+        "जामुन",
+        "चम्बल"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK021",
+      "subject": "General Knowledge",
+      "q": "The area of Bushmen is:",
+      "opts": [
+        "Sahara Desert",
+        "Atacama Desert",
+        "Gobi Desert",
+        "Kalahari Desert"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK022",
+      "subject": "General Knowledge",
+      "q": "Which state has maximum forest area among these according to India State of Forest Report 2021?",
+      "opts": [
+        "Andhra Pradesh",
+        "Chhattisgarh",
+        "Jharkhand",
+        "Telangana"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK023",
+      "subject": "General Knowledge",
+      "q": "Meteor Expedition was related to which of the following?",
+      "opts": [
+        "Depth measurement in Pacific Ocean",
+        "Biological studies of the Atlantic Ocean",
+        "Ice core studies in Cryospheric Region",
+        "None of these"
+      ],
+      "correct": "B",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK024",
+      "subject": "General Knowledge",
+      "q": "Shivasamudram Waterfall is situated on which river?",
+      "opts": [
+        "Chambal",
+        "Narmada",
+        "Kaveri",
+        "Krishna"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK025",
+      "subject": "General Knowledge",
+      "q": "Who was the first Speaker of Lok Sabha?",
+      "opts": [
+        "Ravi Rai",
+        "G. V. Mavlankar",
+        "Meira Kumar",
+        "P. A. Sangma"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK026",
+      "subject": "General Knowledge",
+      "q": "Which Article of the Indian Constitution abolishes untouchability?",
+      "opts": [
+        "Article 14",
+        "Article 16",
+        "Article 17",
+        "Article 42"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK027",
+      "subject": "General Knowledge",
+      "q": "Who was Prime Minister when the 74th Constitutional Amendment Act was passed?",
+      "opts": [
+        "Rajiv Gandhi",
+        "P. V. Narasimha Rao",
+        "Chandra Shekhar",
+        "A. B. Vajpayee"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK028",
+      "subject": "General Knowledge",
+      "q": "How many Supreme Court judges in India have been removed by impeachment?",
+      "opts": [
+        "One",
+        "Two",
+        "Four",
+        "None"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK029",
+      "subject": "General Knowledge",
+      "q": "According to Economic Survey 2021–22, which country was India's top export destination?",
+      "opts": [
+        "China",
+        "Germany",
+        "United States of America (USA)",
+        "United Arab Emirates (UAE)"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK030",
+      "subject": "General Knowledge",
+      "q": "Which is not part of tenancy reforms in India?",
+      "opts": [
+        "Regulation of Rent",
+        "Security of Tenure",
+        "Consolidation of Land Holding",
+        "Ownership Rights to Tenants"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK031",
+      "subject": "General Knowledge",
+      "q": "Which two banks merged with Punjab National Bank?",
+      "opts": [
+        "Canara Bank and Central Bank of India",
+        "Oriental Bank of Commerce and United Bank of India",
+        "Union Bank of India and Bank of Baroda",
+        "Axis Bank and Kotak Mahindra Bank"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK032",
+      "subject": "General Knowledge",
+      "q": "Which is not a problem of federal finance in India?",
+      "opts": [
+        "Gap between needs and resources of state governments",
+        "Question of state autonomy",
+        "Failure to tackle regional imbalance",
+        "Increased importance of Finance Commission"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK033",
+      "subject": "General Knowledge",
+      "q": "Which foreign power actively helped the British suppress the Revolt of 1857?",
+      "opts": [
+        "Bhutan",
+        "Sri Lanka",
+        "Nepal",
+        "Burma"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK034",
+      "subject": "General Knowledge",
+      "q": "Boston Tea Party was associated with which revolution?",
+      "opts": [
+        "American Revolution",
+        "French Revolution",
+        "Russian Revolution",
+        "Glorious Revolution"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK035",
+      "subject": "Reasoning",
+      "q": "Find the missing number in the given figure.",
+      "opts": [
+        "98",
+        "73",
+        "75",
+        "82"
+      ],
+      "correct": "B",
+      "explanation": "",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM26Dj4nUJ_m35_g_pWREMfZjBnynfv4ioAj54BaBlseMjNR-N0OoU_mZ5Eg8nOhEyskyT2nkU-pvIRGhkt7aldNgi52EU1Xen_u6l4v_Vik58E74dzTHz-im0k9SdBpTNLHmogK5OGLPnpT8j_bSQgveFivIy1nlzrgXUnU_ZOTHY07padf8u8Lke9oQ/s1600/1000115393.png"
+    },
+    {
+      "id": "UK036",
+      "subject": "Reasoning",
+      "q": "A car travels between two stations at 60 km/h and returns at 90 km/h. What is its average speed for the whole journey?",
+      "opts": [
+        "85 km/h",
+        "80 km/h",
+        "72 km/h",
+        "75 km/h"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK037",
+      "subject": "Reasoning",
+      "q": "D is taller than A and C. B is shorter than E but taller than D. Who is tallest?",
+      "opts": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK038",
+      "subject": "Reasoning",
+      "q": "A plane mirror shows a clock reading 8:30. What is the actual time?",
+      "opts": [
+        "2:30",
+        "3:30",
+        "5:30",
+        "8:30"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK039",
+      "subject": "Reasoning",
+      "q": "Which diagram best represents Liquid, Pizza and Milk?",
+      "opts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": "D",
+      "explanation": "",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibZuN2DTG8N16zxLJ1kp7XP65hyphenhyphenR5ceVph1wmPO0QfYTr43aC_2kz83ABbRSU3Aq-bV7qsj7YaKpkQawxDKWbXj4MX_ZRNG2NfuWcFxglRymTg75FtUBwlmZWBq6gRU277sPN0J2IFprhdbBogQj2Jm-B6e9KXyHQpqTRd6Tq9BN288l9Hcv5LUkbaRys/s1600/Screenshot_20261121-183459.jpg"
+    },
+    {
+      "id": "UK040",
+      "subject": "Reasoning",
+      "q": "In a group of cows and hens, the number of legs is 14 more than twice the number of heads. How many cows are there?",
+      "opts": [
+        "5",
+        "7",
+        "10",
+        "12"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK041",
+      "subject": "Reasoning",
+      "q": "How many triangles are in the given figure?",
+      "opts": [
+        "38",
+        "34",
+        "32",
+        "28"
+      ],
+      "correct": "C",
+      "explanation": "",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLZyXkIyWXLBhjvtzjjQmZG6YBlGJuf-fLsl4_zKa5FtgCqO_AIOtmerGzuQZ3fWzn88_T_ilhQCd1Z_2Xqj0pxl152V1a7wF_sNoSfhWZzSBHmF7hl9gK8jP7QRCbTbbD3ut4m261E4x8XN2BTi20ziSQKF-OVXlm0ZOK9LLS27xMvBNGNEyDT3cFtw/s1600/Screenshot_20261121-183517.jpg"
+    },
+    {
+      "id": "UK042",
+      "subject": "Reasoning",
+      "q": "A man faces south, turns 135° anticlockwise and then 180° clockwise. Which direction is he facing?",
+      "opts": [
+        "North-East",
+        "North-West",
+        "South-East",
+        "South-West"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK043",
+      "subject": "General Science",
+      "q": "The human eye forms the image of an object on its:",
+      "opts": [
+        "Cornea",
+        "Iris",
+        "Pupil",
+        "Retina"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK044",
+      "subject": "Reasoning",
+      "q": "Which fraction will come next in the sequence: 1/2, 3/4, 5/8, 7/16, ?",
+      "opts": [
+        "9/32",
+        "10/17",
+        "11/32",
+        "12/35"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK045",
+      "subject": "Reasoning",
+      "q": "If + means ×, × means −, ÷ means + and − means ÷, then what is the value of 175 − 25 ÷ 5 + 20 × 3 + 10 ?",
+      "opts": [
+        "77",
+        "160",
+        "240",
+        "2370"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK046",
+      "subject": "General Knowledge",
+      "q": "COVISHIELD, the COVID vaccine of India, is manufactured by which company?",
+      "opts": [
+        "Bharat Biotech",
+        "Panacea Biotech",
+        "Serum Institute",
+        "Zydus Cadila"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK047",
+      "subject": "General Science",
+      "q": "Wheat grains are:",
+      "opts": [
+        "Seeds",
+        "Fruits",
+        "Modified fruits",
+        "Entire seeds"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK048",
+      "subject": "General Knowledge",
+      "q": "Who was given charge as Chairperson of Lokpal after Justice P. C. Ghose's term ended?",
+      "opts": [
+        "Justice Pradip Kumar Mohanty",
+        "Justice Abhilasha Kumari",
+        "Justice Ranjana Desai",
+        "Justice C. K. Prasad"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK049",
+      "subject": "General Knowledge",
+      "q": "Who received the first Lata Deenanath Mangeshkar Award in 2022?",
+      "opts": [
+        "Prime Minister Narendra Modi",
+        "Minister Anurag Thakur",
+        "Lok Sabha Speaker Om Birla",
+        "Musician Pyarelal Ram Prasad Sharma"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK050",
+      "subject": "General Knowledge",
+      "q": "Which city hosted the 12th DefExpo 2022?",
+      "opts": [
+        "Lucknow, Uttar Pradesh",
+        "Gurugram, Haryana",
+        "Gandhinagar, Gujarat",
+        "Indore, Madhya Pradesh"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK051",
+      "subject": "General Knowledge",
+      "q": "Who won the women's singles title at the Syed Modi International Tournament in January 2022?",
+      "opts": [
+        "P. V. Sindhu",
+        "Jwala Gutta",
+        "Saina Nehwal",
+        "Ashwini Ponappa"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK052",
+      "subject": "General Knowledge",
+      "q": "Under which operation did the Indian government bring Indian medical students home from Ukraine?",
+      "opts": [
+        "Operation Ganga",
+        "Operation Himalaya",
+        "Operation Yamuna",
+        "Operation Godavari"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK053",
+      "subject": "Computer Knowledge",
+      "q": "Which of the following is an operating system?",
+      "opts": [
+        "Windows",
+        "Linux",
+        "Mac OS",
+        "All of the above"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK054",
+      "subject": "Computer Knowledge",
+      "q": "A terabyte comprises:",
+      "opts": [
+        "1024 Gigabytes",
+        "1024 Kilobytes",
+        "1024 Megabytes",
+        "1024 Bytes"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK055",
+      "subject": "Computer Knowledge",
+      "q": "Unsolicited commercial email messages are known as:",
+      "opts": [
+        "PGP",
+        "POP",
+        "MIME",
+        "Spam"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK056",
+      "subject": "Computer Knowledge",
+      "q": "In which year did India's Information Technology Act come into existence?",
+      "opts": [
+        "1995",
+        "2000",
+        "2002",
+        "2003"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK057",
+      "subject": "General Knowledge",
+      "q": "Where was Mahavira born?",
+      "opts": [
+        "Pawapuri",
+        "Gaya",
+        "Lumbini",
+        "Vaishali"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK058",
+      "subject": "General Knowledge",
+      "q": "What is the name of the entrance gateway of the Qutub Minar complex?",
+      "opts": [
+        "Qutub Darwaza",
+        "Buland Darwaza",
+        "Alai Darwaza",
+        "Siri Darwaza"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK059",
+      "subject": "General Science",
+      "q": "Which is a renewable source of energy?",
+      "opts": [
+        "Coal",
+        "Petroleum",
+        "Natural Gas",
+        "Sunlight"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK060",
+      "subject": "General Knowledge",
+      "q": "What was the launch date of Indian satellite KalamSat-V2?",
+      "opts": [
+        "12 January 2018",
+        "24 January 2019",
+        "22 May 2019",
+        "22 July 2019"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK061",
+      "subject": "Uttarakhand GK",
+      "q": "Uttarakhand was created as which numbered state of India?",
+      "opts": [
+        "24th",
+        "28th",
+        "22nd",
+        "27th"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK062",
+      "subject": "Uttarakhand GK",
+      "q": "In which region of Uttarakhand was India's first commercial Space Situational Awareness Observatory planned?",
+      "opts": [
+        "Kumaon",
+        "Garhwal",
+        "Both (a) and (b)",
+        "None of the above"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK063",
+      "subject": "Uttarakhand GK",
+      "q": "Which Uttarakhand district was declared India's best aspirational district by NITI Aayog in August 2022?",
+      "opts": [
+        "Haridwar",
+        "Dehradun",
+        "Nainital",
+        "Uttarkashi"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK064",
+      "subject": "Uttarakhand GK",
+      "q": "India's first Chief of Defence Staff Gen. Bipin Rawat belonged to which district?",
+      "opts": [
+        "Pauri",
+        "Tehri",
+        "Almora",
+        "None of the above"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK065",
+      "subject": "Uttarakhand GK",
+      "q": "Who was conferred a Sangeet Natak Akademi Award on 9 April 2022 for folk music?",
+      "opts": [
+        "Narendra Singh Negi",
+        "Meena Rana",
+        "B. K. Samant",
+        "Rekha Dhasmana Uniyal"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK066",
+      "subject": "Uttarakhand GK",
+      "q": "At which rank was Uttarakhand placed in India's Food Security Index 2021–22?",
+      "opts": [
+        "5th",
+        "11th",
+        "19th",
+        "7th"
+      ],
+      "correct": "D",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK067",
+      "subject": "Uttarakhand GK",
+      "q": "Where is the I.T. Park established in Uttarakhand?",
+      "opts": [
+        "Haridwar",
+        "Pauri",
+        "Dehradun",
+        "Nainital"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK068",
+      "subject": "Uttarakhand GK",
+      "q": "Which district had the most registered families in handicraft industry as of 31 March 2021?",
+      "opts": [
+        "Haridwar",
+        "Almora",
+        "Udham Singh Nagar",
+        "Pithoragarh"
+      ],
+      "correct": "C",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK069",
+      "subject": "Uttarakhand GK",
+      "q": "According to Census 2011, which Uttarakhand district had the lowest sex ratio?",
+      "opts": [
+        "Almora",
+        "Dehradun",
+        "Bageshwar",
+        "Haridwar"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK070",
+      "subject": "Uttarakhand GK",
+      "q": "Where is the head office of Uttarakhand Renewable Energy Development Agency (UREDA)?",
+      "opts": [
+        "Haridwar",
+        "Uttarkashi",
+        "Dehradun",
+        "Pithoragarh"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK071",
+      "subject": "Uttarakhand GK",
+      "q": "Which sector contributed most to Uttarakhand's state GDP in 2019–20?",
+      "opts": [
+        "Primary Sector",
+        "Secondary Sector",
+        "Tertiary Sector",
+        "Construction Sector"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK072",
+      "subject": "Uttarakhand GK",
+      "q": "Who is known as the Gandhi of Uttarakhand?",
+      "opts": [
+        "Sundarlal Bahuguna",
+        "Anusuya Prasad Bahuguna",
+        "K. C. Pant",
+        "Indramani Badoni"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK073",
+      "subject": "Uttarakhand GK",
+      "q": "Which is Uttarakhand's largest district by area?",
+      "opts": [
+        "Dehradun",
+        "Udham Singh Nagar",
+        "Chamoli",
+        "Haridwar"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK074",
+      "subject": "Uttarakhand GK",
+      "q": "Which place is known as the Bardoli of Garhwal?",
+      "opts": [
+        "Dugadda",
+        "Guzadu",
+        "Dhorin",
+        "Sitonsiyun"
+      ],
+      "correct": "B",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK075",
+      "subject": "Uttarakhand GK",
+      "q": "The Dola Palki movement was associated with:",
+      "opts": [
+        "Peasant Unrest",
+        "Protest against British rule",
+        "Shilpakars",
+        "Revolutionary Movement"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK076",
+      "subject": "Uttarakhand GK",
+      "q": "Who was Commissioner of Kumaon at the outbreak of the Revolt of 1857?",
+      "opts": [
+        "J. N. Batten",
+        "Sir Henry Ramsay",
+        "Sir Lushington",
+        "Sir Fisher"
+      ],
+      "correct": "B",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK077",
+      "subject": "Uttarakhand GK",
+      "q": "Where did Mathura Prasad Naithani and other Garhwalis found Garhwal Bhratri Mandal in 1907?",
+      "opts": [
+        "Dehradun",
+        "Meerut",
+        "Delhi",
+        "Lucknow"
+      ],
+      "correct": "D",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK078",
+      "subject": "Uttarakhand GK",
+      "q": "Who established the first press in Almora and published a newspaper?",
+      "opts": [
+        "Hariballabh Pant",
+        "Govind Ballabh Pant",
+        "Buddhi Ballabh Pant",
+        "Badri Dutt Pandey"
+      ],
+      "correct": "C",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK079",
+      "subject": "Uttarakhand GK",
+      "q": "Who became famous as Kurmanchal Kesari?",
+      "opts": [
+        "Govind Ballabh Pant",
+        "Anusuya Prasad Bahuguna",
+        "Mukundilal",
+        "Badri Dutt Pandey"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK080",
+      "subject": "Uttarakhand GK",
+      "q": "In which year did Jawaharlal Nehru visit Dugadda at the invitation of Garhwal Congress Committee?",
+      "opts": [
+        "1930",
+        "1932",
+        "1936",
+        "1939"
+      ],
+      "correct": "C",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK081",
+      "subject": "Uttarakhand GK",
+      "q": "Who was NOT among those who unfurled the tricolour on Almora Municipality building during the Civil Disobedience Movement?",
+      "opts": [
+        "Mangla Devi",
+        "Homvati Devi",
+        "Revti Devi",
+        "Jeevanti Devi"
+      ],
+      "correct": "B",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK082",
+      "subject": "Uttarakhand GK",
+      "q": "The Ganga is formed by the confluence of which rivers and at which place?",
+      "opts": [
+        "Bhagirathi and Alaknanda at Devprayag",
+        "Bhagirathi and Alaknanda at Karnaprayag",
+        "Bhagirathi and Alaknanda at Gangotri",
+        "Bhagirathi and Alaknanda at Rudraprayag"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK083",
+      "subject": "Uttarakhand GK",
+      "q": "Sri Badrinath is situated on the bank of which river?",
+      "opts": [
+        "Ganga",
+        "Bhagirathi",
+        "Alaknanda",
+        "Gandak"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK084",
+      "subject": "Uttarakhand GK",
+      "q": "Bageshwar is situated on the bank of:",
+      "opts": [
+        "Ganga",
+        "Yamuna",
+        "Kali",
+        "Confluence of Sarayu and Gomti"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK085",
+      "subject": "Uttarakhand GK",
+      "q": "Who wrote the book Garhwal Ki Diwangat Vibhutiyan?",
+      "opts": [
+        "Badri Datt Pandey",
+        "Ganga Datt Upreti",
+        "Bhakt Darshan",
+        "Chandra Singh Garhwali"
+      ],
+      "correct": "C",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK086",
+      "subject": "Uttarakhand GK",
+      "q": "Where was the 1921 Garhwal Congress Committee workers' meeting chaired by Purushottam Das Tandon held?",
+      "opts": [
+        "Dugadda",
+        "Srinagar",
+        "Jaiharikhal",
+        "Lansdowne"
+      ],
+      "correct": "A",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK087",
+      "subject": "Uttarakhand GK",
+      "q": "In which district is Nanda Devi Peak situated?",
+      "opts": [
+        "Chamoli",
+        "Pauri Garhwal",
+        "Tehri Garhwal",
+        "Almora"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK088",
+      "subject": "Geography",
+      "q": "Soil erosion in mountainous regions can be checked by:",
+      "opts": [
+        "Intensive agriculture",
+        "Animal grazing",
+        "Up-and-down cultivation",
+        "Terrace cultivation"
+      ],
+      "correct": "D",
+      "explanation": ""
+    },
+    {
+      "id": "UK089",
+      "subject": "Uttarakhand GK",
+      "q": "Which lake–district pair is correctly matched?",
+      "opts": [
+        "Dodital – Tehri Garhwal",
+        "Deoriatal – Rudraprayag",
+        "Harish Tal – Champawat",
+        "Benital – Pauri Garhwal"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK090",
+      "subject": "Uttarakhand GK",
+      "q": "Which pass is NOT related to the Gori catchment?",
+      "opts": [
+        "Untadhura",
+        "Belchadhura",
+        "Muling La",
+        "Ralam Pass"
+      ],
+      "correct": "C",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK091",
+      "subject": "Uttarakhand GK",
+      "q": "Which glacier–district pair is incorrectly matched?",
+      "opts": [
+        "Kafni – Bageshwar",
+        "Ralam – Pithoragarh",
+        "Khatling – Uttarkashi",
+        "Alkapuri – Chamoli"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK092",
+      "subject": "Uttarakhand GK",
+      "q": "How many seats are reserved for Scheduled Tribes in Uttarakhand Legislative Assembly?",
+      "opts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK093",
+      "subject": "Uttarakhand GK",
+      "q": "Which Chief Minister raised women's reservation in Uttarakhand Panchayats from 33% to 50%?",
+      "opts": [
+        "Vijay Bahuguna",
+        "Bhuvan Chandra Khanduri",
+        "Harish Rawat",
+        "Nityanand Swami"
+      ],
+      "correct": "B",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK094",
+      "subject": "Uttarakhand GK",
+      "q": "Who was the first nominated member of Uttarakhand Legislative Assembly?",
+      "opts": [
+        "Russell Valentine Gardner",
+        "Kiran Hilton Mayor",
+        "Gagan Singh Rajwar",
+        "Haji Tasleem Ahmad"
+      ],
+      "correct": "A",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK095",
+      "subject": "Uttarakhand GK",
+      "q": "Who was Uttarakhand's first Chief Minister?",
+      "opts": [
+        "Surjit Singh Barnala",
+        "Nityanand Swami",
+        "Narayan Dutt Tiwari",
+        "Govind Ballabh Pant"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK096",
+      "subject": "Uttarakhand GK",
+      "q": "Who was the first Speaker of Uttarakhand Legislative Assembly?",
+      "opts": [
+        "Ajay Bhatt",
+        "Bansidhar Bhagat",
+        "Prakash Pant",
+        "Govind Singh Kunjwal"
+      ],
+      "correct": "C",
+      "explanation": ""
+    },
+    {
+      "id": "UK097",
+      "subject": "Uttarakhand GK",
+      "q": "How many Rajya Sabha members represent Uttarakhand?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": "B",
+      "explanation": ""
+    },
+    {
+      "id": "UK098",
+      "subject": "Uttarakhand GK",
+      "q": "In which year was the Zamindari Abolition and Land Reforms Act implemented in Uttarakhand?",
+      "opts": [
+        "2016",
+        "2017",
+        "2020",
+        "2021"
+      ],
+      "correct": "D",
+      "explanation": "Answer requires verification against an authoritative answer key."
+    },
+    {
+      "id": "UK099",
+      "subject": "Uttarakhand GK",
+      "q": "What is the altitude of Nanda Devi Peak?",
+      "opts": [
+        "7,816 metres",
+        "7,756 metres",
+        "7,355 metres",
+        "7,120 metres"
+      ],
+      "correct": "A",
+      "explanation": ""
+    },
+    {
+      "id": "UK100",
+      "subject": "Geography",
+      "q": "What are the western and eastern limits of the Indian Himalaya?",
+      "opts": [
+        "Nanda Devi and Annapurna",
+        "Nanga Parbat and Namcha Barwa",
+        "Makalu and Trishul",
+        "Kedarnath and Shillong"
+      ],
+      "correct": "B",
+      "explanation": ""
+    }
+  ]
+}
